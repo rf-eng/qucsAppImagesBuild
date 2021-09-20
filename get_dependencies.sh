@@ -6,7 +6,7 @@ sudo apt-get update
 sudo apt-get install build-essential \
 libqt4-dev libqt4-qt3support \
 automake libtool libtool-bin gperf flex bison \
-wget adms asco
+wget adms asco qt4-default
 #
 # for documentation only (we are not going to build it)
 # sudo apt-get install doxygen \
