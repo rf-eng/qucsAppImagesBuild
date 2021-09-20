@@ -20,5 +20,5 @@ wget adms asco
 # get linuxdeploy and source
 wget https://github.com/linuxdeploy/linuxdeploy/releases/download/continuous/linuxdeploy-x86_64.AppImage
 chmod +x ./linuxdeploy-x86_64.AppImage
-wget https://github.com/Qucs/qucs/archive/qucs-0.0.20-rc2.tar.gz
+wget https://github.com/Qucs/qucs/archive/refs/tags/qucs-0.0.19.tar.gz
 
