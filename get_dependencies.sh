@@ -1,7 +1,8 @@
 #!/bin/bash -xv
 #
 
-sudo add-apt-repository -y ppa:fransschreuder1/qucs
+#sudo add-apt-repository -y ppa:fransschreuder1/qucs
+sudo add-apt-repository -y ppa:qucs/qucs
 sudo apt-get update
 sudo apt-get install build-essential \
 libqt4-dev libqt4-qt3support \
